@@ -1,0 +1,2 @@
+# CYBER-PHYSICAL-POWER-SYSTEM-RESILIENCE-ENHANCEMENT-USING-BLOCKCHAIN-AND-ML-MECHANISMS-Mtech-thesis-
+Developed a cyber-physical resilience framework on an IEEE 13-bus feeder in OpenDSS with blockchain P2P energy trading and real-time AC voltage validation. Built a 4-layer threat engine (WLS, Covariance, LSTM, PINN) to detect FDI and FCI attacks. Implemented on-chain node revocation and Q-learning SDN rerouting for rapid DoS mitigation
