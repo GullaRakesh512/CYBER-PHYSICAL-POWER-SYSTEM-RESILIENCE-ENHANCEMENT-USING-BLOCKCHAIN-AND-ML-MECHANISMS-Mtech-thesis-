@@ -466,15 +466,7 @@ Potential extensions include:
 - Cyber-resilient autonomous microgrids.
 - Hardware-in-the-loop validation with real-time digital simulators.
 
----
 
-## Project Status
-
-The framework has been evaluated through simulation and a cyber-physical testbed involving OpenDSS, blockchain, Python-based control services, machine-learning detection, Raspberry Pi communication, and a web-based energy-trading interface.
-
-This repository is intended to document the **architecture, methodology, technologies, experiments, and results** of the project. Source-code availability may be provided separately.
-
----
 
 ## Keywords
 
