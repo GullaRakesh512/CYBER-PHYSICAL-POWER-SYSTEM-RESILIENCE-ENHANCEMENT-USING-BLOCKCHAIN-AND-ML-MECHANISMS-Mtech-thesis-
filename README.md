@@ -17,6 +17,7 @@ Key Objectives
 - Maintain coordination between cybersecurity events, grid operation, and the energy market.
 System Architecture
 The framework is organized into four major layers:
+
 ┌──────────────────────────────────────────────────────────────┐
 │                  CYBER-PHYSICAL POWER SYSTEM                │
 ├──────────────────────────────────────────────────────────────┤
@@ -32,6 +33,8 @@ The framework is organized into four major layers:
 │  Layer 4: Market & Mitigation                               │
 │  Blockchain + P2P Trading + Key Rotation + Revocation      │
 └──────────────────────────────────────────────────────────────┘
+
+
 1. Physical Grid Layer
 The physical network is based on a modified IEEE 13-bus radial distribution feeder modeled in OpenDSS.
 The model incorporates:
