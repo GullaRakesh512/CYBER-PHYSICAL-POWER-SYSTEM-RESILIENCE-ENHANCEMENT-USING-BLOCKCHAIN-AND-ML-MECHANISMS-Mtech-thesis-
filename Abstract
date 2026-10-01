@@ -1,0 +1,23 @@
+                                Abstract
+The fast incorporation of Distributed Energy Resources (DERs) and P2P trading is 
+revolutionizing today's power systems by transitioning them into decentralized cyber-physical 
+systems. However, they also present an inherent conflict between visibility and cybersecurity 
+of vital operational data, which creates potential weaknesses in the network and exposes the 
+grid to complex threats such as false data injection and false command injection. For detecting 
+this type of cyber-attacks, the project suggests a novel approach towards developing a cyber
+physical power system (CPPS) architecture in which P2P trading occurs while implementing 
+effective security strategies.  
+The proposed system is based on the IEEE 13-bus distribution feeder and involves using 
+a central controller to link the physical network with the blockchain layer, encrypting all 
+measurement data through blockchain-supported encryption. In order to protect the network 
+from the cyberattacks, the proposed scheme utilizes an integrated approach for threat detection 
+that blends both traditional statistics and machine learning models. By coupling Weighted Least 
+Squares (WLS) and covariance analysis with LSTM networks and PINNs, the intelligent 
+system is able to differentiate between noise and malicious behaviour within the network.  
+This project has proven to be useful in detecting attacks such as FDI and FCI aimed at 
+corrupting the grid state as well as subtle attempts at manipulating system operations. The 
+framework also provides a solution to data availability risks through the deployment of a Q
+learning algorithm for SDN-enabled rerouting that guarantees continuous network connectivity 
+for total grid observability. Upon confirmation of any attack, the blockchain component 
+initiates key rotation and device revocation actions to isolate and mitigate potential damage to 
+both the physical power flow and the digital market.
